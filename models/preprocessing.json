@@ -1,0 +1,7 @@
+{
+  "image_size": 32,
+  "color_mode": "RGB",
+  "scale": "x/255.0 -> [0,1]",
+  "resize": "cv2.INTER_AREA",
+  "augmentation": "in-model (training only): rotation, zoom, translation; no flips"
+}

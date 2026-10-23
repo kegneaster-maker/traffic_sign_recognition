@@ -1,0 +1,22 @@
+{
+  "trained_at": "2026-10-19T16:30:16",
+  "epochs_requested": 5,
+  "epochs_run": 5,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "image_size": 32,
+  "filters": [
+    32,
+    64,
+    128
+  ],
+  "dense_units": 256,
+  "dropout": 0.4,
+  "augmentation": true,
+  "train_images": 31367,
+  "validation_images": 7842,
+  "training_minutes": 11.93,
+  "dataset_root": "C:\\Users\\Aster\\Downloads\\AI_project",
+  "tensorflow": "2.21.0",
+  "seed": 42
+}

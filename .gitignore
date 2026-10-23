@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+models/*.keras
+models/*.h5
+outputs/
+.pytest_cache/
+.DS_Store
